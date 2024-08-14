@@ -1,0 +1,1 @@
+export const DB_URL = "mongodb+srv://admin:admin@cluster.k3ipxms.mongodb.net/little_project?retryWrites=true&w=majority"
